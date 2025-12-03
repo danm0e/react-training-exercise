@@ -9,6 +9,8 @@ This is a companion repository for the [React Presentation](https://github.com/d
 
 ### Getting Started
 
+Make sure you're on the a version of node >= 20!
+
 To get started simply run
 
 ```bash
